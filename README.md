@@ -1,2 +1,2 @@
 # Train_digit_classifier_on_local_images
-This source loads images from file system and train the classifier.
+This script loads images from file system , convert them into feaqture set and and train the classifier.
